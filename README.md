@@ -24,8 +24,4 @@ CertificateDapp provides a user-friendly interface for certificate management. I
 
 For any inquiries or issues encountered while using CertificateDapp, please feel free to contact us via the information provided in the repository.
 
-## Acknowledgements
-
-We would like to express our gratitude to Tailwind CSS for providing the utility-first CSS framework utilized in this project.
-
 
